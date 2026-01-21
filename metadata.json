@@ -1,0 +1,5 @@
+{
+  "name": "React UI Kit",
+  "description": "A collection of reusable, polished React components including Toasts, Modal/Confirm dialogs, and Form elements using Tailwind CSS.",
+  "requestFramePermissions": []
+}
